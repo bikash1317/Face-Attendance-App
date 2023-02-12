@@ -1,2 +1,2 @@
 # face-recognition-based-attendance-system  
-[alt text](ss.png)
+![alt text](ss.png)
