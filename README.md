@@ -1,2 +1,5 @@
-# Face-Attendance-App
-This is a web browser app which uses flask to run. It uses ML kneighbour model to train the data and also make the date the student is present or not.
+# face-recognition-based-attendance-system  
+
+Do visit my blog for better explanations: https://machinelearningprojects.net/face-recognition-based-attendance-system/
+
+![alt text](ss.png)
